@@ -1,8 +1,8 @@
 {
   "name": "IonicComponents",
   "short_name": "IonicComponents",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "theme_color": "#222428",
+  "background_color": "#222428",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
